@@ -12,9 +12,9 @@ case $1 in
 	2)
 		OpenRadio "Radio Record Breaks" "http://online.radiorecord.ru:8102/brks_128" ;
 		;;
-  3)
-    OpenRadio "DevCon Trance" "http://212.86.109.178/trance" ;
-    ;;
+        3)
+                OpenRadio "DevCon Trance" "http://212.86.109.178/trance" ;
+                ;;
 	4)
 		OpenRadio "Radio Record" "http://air.radiorecord.ru:805/rr_320" ;
 		;;
