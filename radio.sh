@@ -16,34 +16,34 @@ case $1 in
     OpenRadio "DevCon Trance" "http://212.86.109.178/trance" ;
     ;;
 	4)
-		OpenRadio "Radio Record - " "http://air.radiorecord.ru:805/rr_320" ;
+		OpenRadio "Radio Record" "http://air.radiorecord.ru:805/rr_320" ;
 		;;
 	5)
-		OpenRadio "Future House - " "http://air.radiorecord.ru:805/fut_320" ;
+		OpenRadio "Future House" "http://air.radiorecord.ru:805/fut_320" ;
 		;;
 	6)
-		OpenRadio "EDM - " "http://air.radiorecord.ru:805/club_320" ;
+		OpenRadio "EDM" "http://air.radiorecord.ru:805/club_320" ;
 		;;
 	7)
-		OpenRadio "Megamix - " "http://air.radiorecord.ru:805/mix_320" ;
+		OpenRadio "Megamix" "http://air.radiorecord.ru:805/mix_320" ;
 		;;
 	8)
-		OpenRadio "Gold - " "http://air.radiorecord.ru:805/gold_320" ;
+		OpenRadio "Gold" "http://air.radiorecord.ru:805/gold_320" ;
 		;;
 	9)
-		OpenRadio "Trancemission - " "http://air.radiorecord.ru:805/tm_320" ;
+		OpenRadio "Trancemission" "http://air.radiorecord.ru:805/tm_320" ;
 		;;
 	10)
-		OpenRadio "Pirate Station - " "http://air.radiorecord.ru:805/ps_320" ;
+		OpenRadio "Pirate Station" "http://air.radiorecord.ru:805/ps_320" ;
 		;;
 	11)
-		OpenRadio "Deep - " "http://air.radiorecord.ru:805/deep_320" ;
+		OpenRadio "Deep" "http://air.radiorecord.ru:805/deep_320" ;
 		;;
 	12)
-		OpenRadio "Vip House - " "http://air.radiorecord.ru:805/vip_320" ;
+		OpenRadio "Vip House" "http://air.radiorecord.ru:805/vip_320" ;
 		;;
 	13)
-		OpenRadio "Neurofunk - " "http://air.radiorecord.ru:805/neurofunk_320" ;
+		OpenRadio "Neurofunk" "http://air.radiorecord.ru:805/neurofunk_320" ;
 		;;
 	14)
 		OpenRadio "MAXIMUM" "http://icecast.radiomaximum.cdnvideo.ru:8000/max_m.aac" ;
