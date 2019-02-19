@@ -1,5 +1,5 @@
 # bash-radio
-Радио в терминале GNU/Linux 
+Радио в терминале GNU/Linux
 
 **Автор:** @krdprog
 
