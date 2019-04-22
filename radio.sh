@@ -57,6 +57,30 @@ case $1 in
   17)
     OpenRadio "Birds" "http://sc-brazilianbirds.1.fm:10072/" ;
     ;;
+  18)
+    OpenRadio "BESTGREEK" "http://bestgreek.info:8292" ;
+    ;;
+  19)
+    OpenRadio "RADIO LEHOVO 971 GREECE" "http://s4.onweb.gr:8468" ;
+    ;;
+  20)
+    OpenRadio "ELLHNIKOS 90.3" "http://live.ellinikos.gr:8010/903.aac" ;
+    ;;
+  21)
+    OpenRadio "Kanali 6 (Cyprus)" "http://stream.dnsgb.net:8012" ;
+    ;;
+  22)
+    OpenRadio "Kanali 7 (Cyprus)" "http://live.kanali7.com:4012" ;
+    ;;
+  23)
+    OpenRadio "Lakka Souli Radio (Greece)" "http://eco.onestreaming.com:8286" ;
+    ;;
+  24)
+    OpenRadio "Sky Radio (Greece)" "http://live.skyradio.gr:9920" ;
+    ;;
+  25)
+    OpenRadio "BeMyRadio Schlager (German)" "http://ns224666.ovh.net:19500" ;
+    ;;
   add)
 
     echo "данный функционал пока не реализован" ;
@@ -87,6 +111,14 @@ echo "
 + 15 - Klik FM Cyprus : radio 15
 + 16 - Radio Hersonisos : radio 16
 + 17 - Birds : radio 17
++ 18 - BESTGREEK : radio 18
++ 19 - RADIO LEHOVO 971 GREECE : radio 19
++ 20 - ELLHNIKOS 90.3 : radio 20
++ 21 - Kanali 6 (Cyprus) : radio 21
++ 22 - Kanali 7 (Cyprus) : radio 22
++ 23 - Lakka Souli Radio (Greece) : radio 23
++ 24 - Sky Radio (Greece) : radio 24
++ 25 - BeMyRadio Schlager (German) : radio 26
 
 + play - играть по URL : radio play [url]
 + add - добавить новую станцию : radio add
