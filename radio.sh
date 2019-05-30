@@ -81,6 +81,9 @@ case $1 in
   25)
     OpenRadio "BeMyRadio Schlager (German)" "http://ns224666.ovh.net:19500" ;
     ;;
+  26)
+    OpenRadio "Japanimradio" "http://listen.radionomy.com:80/Japanimradio-Webradio/" ;
+    ;;
   add)
 
     echo "данный функционал пока не реализован" ;
@@ -118,7 +121,8 @@ echo "
 + 22 - Kanali 7 (Cyprus) : radio 22
 + 23 - Lakka Souli Radio (Greece) : radio 23
 + 24 - Sky Radio (Greece) : radio 24
-+ 25 - BeMyRadio Schlager (German) : radio 26
++ 25 - BeMyRadio Schlager (German) : radio 25
++ 26 - Japanimradio : radio 26
 
 + play - играть по URL : radio play [url]
 + add - добавить новую станцию : radio add
